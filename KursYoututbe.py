@@ -1,7 +1,7 @@
 
 suma = 0
-while 10 == 10:
-    print("wpisz liczbe:")
+while 5 == 5:
+    print("podaj liczbe:")
     x = input()
     y = int(x)
 
